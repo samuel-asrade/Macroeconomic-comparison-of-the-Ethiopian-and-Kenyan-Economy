@@ -1,8 +1,0 @@
-This analysis of the Ethiopian and Kenyan economies synthesizes the major macroeconomic variables of both countries to clarify their economic trend over the past thirty years and predict the future.
-
-I was motivated to do this due to the recent news that the Kenyan economy has surpassed the Ethiopian one and is expected to become the largest in East Africa.
-
-The data is extracted from the IMF website: I have put the link below.
-
-Ethiopia: https://www.imf.org/external/datamapper/profile/ETH
-Kenya: https://www.imf.org/external/datamapper/profile/KEN
